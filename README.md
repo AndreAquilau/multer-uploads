@@ -9,13 +9,13 @@ or
 npm install multer && npm install --save-dev multer
 ~~~~
 
-#### Criar variavel de ambiente
+#### Criar variável de ambiente
 ~~~env
 FILES_STATICS_IMAGES = uploads/images
 FILES_STATICS = uploads
 ~~~
 
-#### Adicionar arquivos státicos da API no express
+#### Adicionar arquivos estáticos da API no express
 App.ts
 ~~~ts
 this.app.use(
