@@ -1,4 +1,4 @@
-### Documentação de como usar o multer para uploads
+### Documentação de como usar o multer para uploads de arquivos
 
 #### Install multer
 ~~~~bash
